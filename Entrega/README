@@ -1,1 +1,4 @@
-Incluid en esta carpeta todos los ficheros necesarios para el despliegue de vuestro proyecto.
+Para que todos los nombres de dominios funcionen, 
+hay que configurar el fichero /etc/hosts de nuestra máquina.
+
+Copiar las lineas que aparecen en hosts.txt, dentro del fichero hosts de nuestra máquina física.
